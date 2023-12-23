@@ -1,0 +1,23 @@
+
+*{
+    background-color:rgb(244, 218, 218);
+}   
+h1{
+    font-family: arial;
+    color: rgb(55, 145, 145);
+}
+h2{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:rgb(220, 83, 225);
+
+}
+
+h3{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, 'Times New Roman', Times, serf;
+    color:rgb(72, 111, 194);
+
+}
+h4 {
+    font-family: arial;
+    color: rgb(124, 184, 184);
+} 
